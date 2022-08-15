@@ -28,7 +28,8 @@ pronto sua ideia ja foi adicionada.
 
 ## 😊 Desenvolvedores
 
-| [<img src="https://avatars.githubusercontent.com/u/108908760?s=400&u=ebc82fa5a9a2eef663003b7d389f1013821c6541&v=4" width=115><br><sub>Robson Melo</sub>](https://github.com/RobsonMel0) |
+[<img src="https://avatars.githubusercontent.com/u/108908760?s=400&u=ebc82fa5a9a2eef663003b7d389f1013821c6541&v=4" width=115><br><sub>Robson Melo</sub>](https://github.com/RobsonMel0)
+
 
 
 
